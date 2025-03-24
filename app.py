@@ -3,7 +3,7 @@ import os
 import numpy as np
 import pandas as pd
 from PIL import Image, ImageDraw
-import cv2
+#import cv2
 import requests  # For direct API calls
 import tempfile
 import json
